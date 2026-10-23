@@ -50,4 +50,17 @@ For developers attempting to mirror the authentic 1990s client experience, the e
 
 ### License
 
+
+## Client Preservation (MrTerm v1.3)
+
+This repository proudly archives **MrTerm13.zip**, the authentic Windows 95 terminal client custom-tailored for Mortal Realms. 
+
+* **Compatibility:** While the original source disks are lost, this compiled Win32 executable remains fully functional on modern operating systems, including Windows 11, when launched using Windows Compatibility Mode.
+* **Protocol Legacy:** It showcases the specialized, low-bandwidth text compression routines and custom binary headers engineered to eliminate gameplay lag over dial-up networking links.
+
+Compatibility settings:
+  Run as Windows Vista
+  Run as administrator
+  Other settings left unchecked.
+
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for full details regarding distribution, modification, and open-source compliance rules.
