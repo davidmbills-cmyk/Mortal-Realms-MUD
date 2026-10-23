@@ -1,5 +1,7 @@
 ### Mortal Realms MUD (MrMUD v1.4)
 
+Current active server:  game.mortalrealms.com:4321
+
 Welcome to the official repository preserving the source code, game assets, and documentation for the Mortal Realms MUD engine (MrMUD v1.4), originally released in 1993. This repository serves as a historical archive and a development hub for compiling, running, and maintaining this deeply customized text-based multiplayer engine. 
 
 ### Overview
